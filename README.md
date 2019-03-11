@@ -1,4 +1,4 @@
-# vscode-git
-test git 입니다.
+# Proj-enuri    
+Enuri Promotion용
 
 
